@@ -1,3 +1,5 @@
+![example workflow](https://github.com/kirviza/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # Инструкция проекта infra_sp2
 infra_sp2
 
